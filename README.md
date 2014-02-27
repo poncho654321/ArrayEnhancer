@@ -66,6 +66,8 @@ Fluent support:
 </code>
 
 <br/><br/>
+Check source code for more functions. (some)Jasmine unit test included.
+<br/><br/>
 WIP (editable):
 
 I'm working to archive these new functions (comments, needs and suggestions are welcome):
@@ -73,3 +75,5 @@ I'm working to archive these new functions (comments, needs and suggestions are 
 - removeAll: remove all literals/JSON objects that meet a certain predicate.
 - takeWhile: get a new array that contains all literals/JSON objects that meet a certain predicate.
 - takeNotWhile: get a new arrat that not contains all literals/JSON objects that meet a certain predicate.
+- More functions to JSON manipulation
+- Observable array (with Object.observe maybe)
